@@ -6,7 +6,7 @@
 I specialize in creating dynamic web applications using **Next.js, PostgreSQL, Express.js, React.js, Node.js**, and **MongoDB**. I'm passionate about building scalable and efficient applications and always looking for new challenges.
 
 # 💫 About Me:
-🔭 I’m currently working on enhancing my skills in both frontend and backend development to create more robust and efficient web applications.<br><br>👯 I’m looking to collaborate on interesting projects that challenge my abilities and allow me to contribute to innovative solutions.<br><br> 💬 Ask me about anything related to web development, from frontend technologies like React and Next to backend technologies like Node.js and Express.
+🔭 I’m currently working on enhancing my skills in both frontend and backend development to create more robust and efficient web applications.<br><br>👯 I’m looking to collaborate on interesting projects that challenge my abilities and allow me to contribute to innovative solutions.<br><br>🤝 I’m looking for help with optimizing performance in large-scale applications and mastering advanced concepts in JavaScript frameworks.<br><br>🌱 I’m currently learning about microservices architecture and containerization with Docker to improve scalability and deployment processes.<br><br> 💬 Ask me about anything related to web development, from frontend technologies like React and Next to backend technologies like Node.js and Express.
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/lawrence-alkhalaileh/)
