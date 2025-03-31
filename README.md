@@ -47,7 +47,7 @@ I specialize in creating dynamic web applications using **Next.js, PostgreSQL, E
       </a>
       <a href="https://nodejs.org" target="_blank" rel="noreferrer">
         <img
-          src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg"
+          src="https://github.com/user-attachments/assets/acfdf78c-7964-4be5-a234-cc87afa40895"
           alt="nodejs"
           width="40"
           height="40"
@@ -55,7 +55,7 @@ I specialize in creating dynamic web applications using **Next.js, PostgreSQL, E
       </a>
       <a href="https://nextjs.org/" target="_blank" rel="noreferrer">
         <img
-          src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg"
+          src="https://github.com/user-attachments/assets/a2b0948e-16b4-4836-a7c9-7976ccf91063"
           alt="nextjs"
           width="40"
           height="40"
@@ -75,7 +75,7 @@ I specialize in creating dynamic web applications using **Next.js, PostgreSQL, E
         rel="noreferrer"
       >
         <img
-          src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg"
+          src="https://github.com/user-attachments/assets/7ad54695-7332-4608-a17c-0a9b1391b1c8"
           alt="bash"
           width="40"
           height="40"
