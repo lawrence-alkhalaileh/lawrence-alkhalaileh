@@ -47,16 +47,8 @@ I specialize in creating dynamic web applications using **Next.js, PostgreSQL, E
       </a>
       <a href="https://nodejs.org" target="_blank" rel="noreferrer">
         <img
-          src="https://github.com/user-attachments/assets/acfdf78c-7964-4be5-a234-cc87afa40895"
+          src="https://img.icons8.com/?size=100&id=54087&format=png&color=000000"
           alt="nodejs"
-          width="40"
-          height="40"
-        />
-      </a>
-      <a href="https://nextjs.org/" target="_blank" rel="noreferrer">
-        <img
-          src="https://github.com/user-attachments/assets/a2b0948e-16b4-4836-a7c9-7976ccf91063"
-          alt="nextjs"
           width="40"
           height="40"
         />
@@ -69,13 +61,29 @@ I specialize in creating dynamic web applications using **Next.js, PostgreSQL, E
           height="40"
         />
       </a>
+      <a href="https://www.postgresql.org" target="_blank" rel="noreferrer">
+        <img
+          src="https://img.icons8.com/?size=100&id=aqb9SdV9P8oC&format=png&color=FFFFFF"
+          alt="postgresql"
+          width="40"
+          height="40"
+        />
+      </a>
+      <a href="https://nextjs.org/" target="_blank" rel="noreferrer">
+        <img
+          src="https://img.icons8.com/?size=100&id=r2OarXWQc7B6&format=png&color=FFFFFF"
+          alt="nextjs"
+          width="40"
+          height="40"
+        />
+      </a>
       <a
         href="https://www.gnu.org/software/bash/"
         target="_blank"
         rel="noreferrer"
       >
         <img
-          src="https://github.com/user-attachments/assets/7ad54695-7332-4608-a17c-0a9b1391b1c8"
+          src="https://img.icons8.com/?size=100&id=50ZQHdJTmPqw&format=png&color=FFFFFF"
           alt="bash"
           width="40"
           height="40"
