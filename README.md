@@ -37,39 +37,7 @@ I specialize in creating dynamic web applications using **Next.js, PostgreSQL, E
           height="40"
         />
       </a>
-      <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
-        <img
-          src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg"
-          alt="react"
-          width="40"
-          height="40"
-        />
-      </a>
-      <a href="https://nodejs.org" target="_blank" rel="noreferrer">
-        <img
-          src="https://img.icons8.com/?size=100&id=54087&format=png&color=000000"
-          alt="nodejs"
-          width="40"
-          height="40"
-        />
-      </a>
-      <a href="https://www.postgresql.org" target="_blank" rel="noreferrer">
-        <img
-          src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg"
-          alt="postgresql"
-          width="40"
-          height="40"
-        />
-      </a>
-      <a href="https://www.postgresql.org" target="_blank" rel="noreferrer">
-        <img
-          src="https://img.icons8.com/?size=100&id=aqb9SdV9P8oC&format=png&color=FFFFFF"
-          alt="postgresql"
-          width="40"
-          height="40"
-        />
-      </a>
-      <a href="https://nextjs.org/" target="_blank" rel="noreferrer">
+            <a href="https://nextjs.org/" target="_blank" rel="noreferrer">
         <img
           src="https://img.icons8.com/?size=100&id=r2OarXWQc7B6&format=png&color=FFFFFF"
           alt="nextjs"
@@ -77,22 +45,18 @@ I specialize in creating dynamic web applications using **Next.js, PostgreSQL, E
           height="40"
         />
       </a>
-      <a
-        href="https://www.gnu.org/software/bash/"
-        target="_blank"
-        rel="noreferrer"
-      >
+            <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
         <img
-          src="https://img.icons8.com/?size=100&id=50ZQHdJTmPqw&format=png&color=FFFFFF"
-          alt="bash"
+          src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg"
+          alt="react"
           width="40"
           height="40"
         />
       </a>
-      <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
+      <a href="https://nodejs.org" target="_blank" rel="noreferrer">
         <img
-          src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg"
-          alt="git"
+          src="https://cdn.iconscout.com/icon/free/png-512/free-node-js-logo-icon-download-in-svg-png-gif-file-formats--nodejs-programming-language-pack-logos-icons-1174935.png?f=webp&w=512"
+          alt="nodejs"
           width="40"
           height="40"
         />
@@ -113,18 +77,38 @@ I specialize in creating dynamic web applications using **Next.js, PostgreSQL, E
           height="40"
         />
       </a>
-      <a href="https://www.linux.org/" target="_blank" rel="noreferrer">
+      <a
+        href="https://www.gnu.org/software/bash/"
+        target="_blank"
+        rel="noreferrer"
+      >
         <img
-          src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg"
-          alt="linux"
+          src="https://img.icons8.com/fluency/48/000000/console.png"
+          alt="terminal"
           width="40"
           height="40"
         />
       </a>
-      <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
+      <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
         <img
-          src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg"
-          alt="mongodb"
+          src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg"
+          alt="git"
+          width="40"
+          height="40"
+        />
+      </a>
+      <a href="https://www.linux.org/" target="_blank" rel="noreferrer">
+        <img
+          src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/neovim/neovim-original.svg"
+          alt="neo-vim"
+          width="40"
+          height="40"
+        />
+      </a>
+      <a href="https://www.linux.org/" target="_blank" rel="noreferrer">
+        <img
+          src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg"
+          alt="vscode"
           width="40"
           height="40"
         />
@@ -149,6 +133,30 @@ I specialize in creating dynamic web applications using **Next.js, PostgreSQL, E
         <img
           src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg"
           alt="figma"
+          width="40"
+          height="40"
+        />
+      </a>
+            <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
+        <img
+          src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg"
+          alt="mongodb"
+          width="40"
+          height="40"
+        />
+      </a>
+            <a href="https://www.postgresql.org" target="_blank" rel="noreferrer">
+        <img
+          src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg"
+          alt="postgresql"
+          width="40"
+          height="40"
+        />
+      </a>
+      <a href="https://www.postgresql.org" target="_blank" rel="noreferrer">
+        <img
+          src="https://img.icons8.com/?size=100&id=aqb9SdV9P8oC&format=png&color=FFFFFF"
+          alt="prisma"
           width="40"
           height="40"
         />
