@@ -137,15 +137,7 @@ I specialize in creating dynamic web applications using **Next.js, PostgreSQL, E
           height="40"
         />
       </a>
-            <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
-        <img
-          src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg"
-          alt="mongodb"
-          width="40"
-          height="40"
-        />
-      </a>
-            <a href="https://www.postgresql.org" target="_blank" rel="noreferrer">
+           <a href="https://www.postgresql.org" target="_blank" rel="noreferrer">
         <img
           src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg"
           alt="postgresql"
@@ -157,6 +149,14 @@ I specialize in creating dynamic web applications using **Next.js, PostgreSQL, E
         <img
           src="https://img.icons8.com/?size=100&id=aqb9SdV9P8oC&format=png&color=FFFFFF"
           alt="prisma"
+          width="40"
+          height="40"
+        />
+      </a>
+            <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
+        <img
+          src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg"
+          alt="mongodb"
           width="40"
           height="40"
         />
