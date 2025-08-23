@@ -97,7 +97,7 @@ I specialize in creating dynamic web applications using **Next.js, PostgreSQL, E
           height="40"
         />
       </a>
-<!--       <a href="https://www.linux.org/" target="_blank" rel="noreferrer">
+<!--<a href="https://www.linux.org/" target="_blank" rel="noreferrer">
         <img
           src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/neovim/neovim-original.svg"
           alt="neo-vim"
