@@ -104,7 +104,6 @@ I specialize in creating dynamic web applications using **Next.js, PostgreSQL, E
           width="40"
           height="40"
         />
-      </a>
       </a> -->
         <a href="https://redux.js.org" target="_blank" rel="noreferrer">
         <img
